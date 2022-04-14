@@ -1,6 +1,10 @@
 body {
   font-family: "Raleway", sans-serif;
 }
+h2{
+  color: blueviolet;
+  text-align: end;
+}
 
 /* Hero Section */
 
